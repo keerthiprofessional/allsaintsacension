@@ -12,7 +12,7 @@
     ' <a href="schedule.html">View Full Schedule →</a></div>'+
   '<header><div class="header-inner">'+
     '<a href="index.html" class="logo-wrap"><img src="'+LOGO+'" alt="All Saints and Ascension Logo">'+
-      '<div class="logo-text"><div class="name">All Saints &amp; Ascension</div><div class="sub">Episcopal Church · Northwoods, MO</div></div></a>'+
+      '<div class="logo-text"><div class="name">All Saints and Ascension</div><div class="sub">Episcopal Church · Northwoods, MO</div></div></a>'+
     '<nav>'+
       '<div class="nav-item'+act("about.html")+'"><a href="about.html">About Us ▾</a><div class="dropdown">'+
         '<a href="im-new.html">I\'m New Here</a><a href="about.html">This Is Us: Our History</a>'+
