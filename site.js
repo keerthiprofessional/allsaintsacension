@@ -3,7 +3,7 @@
    every page. All links point to LOCAL pages (this new site).
    ============================================================ */
 (function(){
-  var LOGO="https://allsaintsascension.com/wp-content/uploads/2018/07/logo-with-round-edge-red-black-green-border.jpg";
+  var LOGO="logo.png";
   var here=(location.pathname.split("/").pop()||"index.html").toLowerCase()||"index.html";
   function act(page){return here===page?" active":"";}
 
