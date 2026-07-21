@@ -38,10 +38,10 @@
     '<div style="font-family:\'Playfair Display\',serif;font-size:1rem;color:var(--red)">All Saints and Ascension</div>'+
     '<button class="mobile-close" onclick="ASA_close()">✕ Close</button></div>'+
     '<div class="mobile-nav">'+
-      '<a href="index.html"> Home</a><a href="im-new.html">✝ I\'m New Here</a><a href="about.html">About Us</a>'+
+      '<a href="index.html">🏠 Home</a><a href="im-new.html">✝ I\'m New Here</a><a href="about.html">About Us</a>'+
       '<a href="about.html#ministries">Ministries</a><a href="schedule.html">Schedule</a><a href="news.html">News</a>'+
       '<a href="gallery.html">Gallery</a><a href="resources.html">Resources</a><a href="funeral-notices.html">Funeral Notices</a><a href="watch.html">▶ Watch Live</a>'+
-      '<a href="contact.html">Contact</a><a href="giving.html" class="mobile-give">Give Online</a></div></div>';
+      '<a href="contact.html">Contact</a><a href="giving.html" class="mobile-give">💛 Give Online</a></div></div>';
 
   var footer =
   '<footer><div class="footer-inner">'+
